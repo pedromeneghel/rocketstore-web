@@ -22,4 +22,4 @@ No projeto, pode-se destacar algumas libs utilizadas para chegar ao resultado es
  4. Execute o comando `yarn start` ou `npm start` para iniciar a execução do projeto
 
 ---
-Feito com ♥ by Pedro Meneghel**
+***Feito com ♥ by Pedro Meneghel***
