@@ -16,4 +16,10 @@ No projeto, pode-se destacar algumas libs utilizadas para chegar ao resultado es
 
 ## Instação e execução
 
- 1. List item
+ 1. Faça o clone do repositório e acesse a pasta do projeto;
+ 2. Execute o comando `yarn` ou `npm` para instalar as dependências;
+ 3. Execute o seguinte comando na raiz do projeto para iniciar a API para servir os dados: `json-server server.json -p 3333`;
+ 4. Execute o comando `yarn start` ou `npm start` para iniciar a execução do projeto
+
+---
+**Feito com ♥ by Pedro Meneghel**
